@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YamsBeans
+- 👋 Hi, I’m Omor @YamsBeans
 - 👀 I’m interested in Computers 
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Video Game and Software Development 
